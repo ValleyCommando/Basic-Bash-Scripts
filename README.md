@@ -1,3 +1,3 @@
 # Basic-Bash-Scripts
 
-Basic bash scripts created in the past for CTFs and other purposes.
+Basic bash scripts created for pentests and other purposes.
